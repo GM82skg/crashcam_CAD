@@ -4,7 +4,7 @@ Hello, I am working in the commercial space, and this marks my first attempt to 
 
 **This work is still in progress and far from complete.**
 
-The front plate was initially designed and made of aluminum (CnC), with a few extrusions that touch the CPU and memory of the Pi board for passive cooling and reduced vibrations.
+The front plate was initially designed and made of aluminum (cnc), with a few extrusions that touch the CPU and memory of the Pi board for passive cooling and reduced vibrations.
 
 # Dimensions
 - Width: `~100mm`
