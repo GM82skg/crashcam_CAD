@@ -2,7 +2,9 @@
 
 Hello, I am working in the commercial space, and this marks my first attempt to develop a compact "crashcam", utilizing the CinePi project, to evaluate its suitability for our production needs.
 
-This work is still in progress and far from complete.
+** This work is still in progress and far from complete. **
+
+* The front plate was initially designed and made of aluminum (CnC), with a few extrusions that touch the CPU and memory of the Pi board for passive cooling and reduced vibrations.
 
 # Dimensions
 - Width: `~100mm`
