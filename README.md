@@ -11,9 +11,9 @@ Depth: 50mm
 
 # Preview
 
-![cam1](https://https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/001.png)
-![cam2](https://https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/002.png?raw=true)
-![cam3](https://https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/003.png?raw=true)
-![cam4](https://https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/004.png?raw=true)
-![cam5](https://https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/005.png?raw=true)
-![cam6](https://https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/006.png?raw=true)
+![cam1](https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/001.png)
+![cam2](https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/002.png)
+![cam3](https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/003.png)
+![cam4](https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/004.png)
+![cam5](https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/005.png)
+![cam6](https://github.com/GM82skg/pi5_cambox_CAD/blob/main/images/006.png)
