@@ -5,9 +5,9 @@ I am currently working in the commercial space, and this marks my first attempt 
 This work is still in progress and far from complete.
 
 # Dimensions
-Width: ~100mm
-Height: 86mm
-Depth: 50mm
+- Width: `~100mm`
+- Height: `86mm`
+- Depth: `50mm`
 
 # Preview
 
