@@ -1,6 +1,6 @@
 # "CRASHCAM" - Pi5 Camera ENCLOSURE/CAD
 
-Hello, I am working in the commercial space, and this marks my first attempt to develop a compact "crashcam", utilizing the CinePi project, to evaluate its suitability for our production needs.
+Hello, I am working in the commercial space, and this marks my first attempt to develop a compact "crashcam", utilizing the **CinePi** project, to evaluate its suitability for our production needs.
 
 **This work is still in progress and far from complete.**
 
