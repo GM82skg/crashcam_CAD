@@ -17,7 +17,7 @@ The front plate (not the one showing here) was initially designed and made of al
 - Depth: `50mm`
 
 # Preview
-
+[STL files are available here](https://github.com/user-attachments/files/16847561/Crashcam_Pi5_v001.zip)
 ![cam1](https://github.com/GM82skg/crashcam_CAD/blob/main/images/001.png)
 ![cam2](https://github.com/GM82skg/crashcam_CAD/blob/main/images/002.png)
 ![cam3](https://github.com/GM82skg/crashcam_CAD/blob/main/images/003.png)
