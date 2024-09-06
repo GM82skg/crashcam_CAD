@@ -25,3 +25,6 @@ The front plate (not the one showing here) was initially designed and made of al
 ![cam6](https://github.com/GM82skg/crashcam_CAD/blob/main/images/006.png)
 
 [STL files are available here](https://github.com/user-attachments/files/16847561/Crashcam_Pi5_v001.zip)
+
+## Upcoming update
+![cam203](https://github.com/GM82skg/crashcam_CAD/blob/main/images/203.png)
